@@ -1,0 +1,719 @@
+# depslib dependency file v1.0
+1525072730 source:c:\project7\collagep\main.cpp
+	<iostream>
+	<math.h>
+	<windows.h>
+	<mysql.h>
+	<stdlib.h>
+
+1107038124 c:\dev-cpp\include\math.h
+	<_mingw.h>
+
+1107038124 c:\dev-cpp\include\_mingw.h
+
+1107038120 c:\dev-cpp\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1107038120 c:\dev-cpp\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1107038120 c:\dev-cpp\include\winuser.h
+
+1107038120 c:\dev-cpp\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1107038120 c:\dev-cpp\include\winerror.h
+
+1107038124 c:\dev-cpp\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1107038124 c:\dev-cpp\include\stddef.h
+
+1107038120 c:\dev-cpp\include\basetsd.h
+
+1107038120 c:\dev-cpp\include\pshpack4.h
+
+1107038120 c:\dev-cpp\include\poppack.h
+
+1107038120 c:\dev-cpp\include\winver.h
+
+1107038120 c:\dev-cpp\include\dde.h
+
+1107038120 c:\dev-cpp\include\dlgs.h
+
+1107038120 c:\dev-cpp\include\commctrl.h
+	<prsht.h>
+
+1107038120 c:\dev-cpp\include\prsht.h
+
+1107038124 c:\dev-cpp\include\stdarg.h
+
+1107038120 c:\dev-cpp\include\windef.h
+	<winnt.h>
+
+1107038120 c:\dev-cpp\include\wincon.h
+
+1107038120 c:\dev-cpp\include\winbase.h
+
+1107038120 c:\dev-cpp\include\wingdi.h
+
+1107038120 c:\dev-cpp\include\winnls.h
+
+1107038120 c:\dev-cpp\include\winnetwk.h
+
+1107038120 c:\dev-cpp\include\winreg.h
+
+1107038120 c:\dev-cpp\include\winsvc.h
+
+1107038120 c:\dev-cpp\include\cderr.h
+
+1107038120 c:\dev-cpp\include\ddeml.h
+
+1107038120 c:\dev-cpp\include\imm.h
+
+1107038120 c:\dev-cpp\include\lzexpand.h
+
+1107038120 c:\dev-cpp\include\mmsystem.h
+
+1107038120 c:\dev-cpp\include\nb30.h
+
+1107038120 c:\dev-cpp\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1107038120 c:\dev-cpp\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1107038120 c:\dev-cpp\include\basetyps.h
+
+1107038120 c:\dev-cpp\include\rpcdcep.h
+
+1107038120 c:\dev-cpp\include\rpcnsi.h
+
+1107038120 c:\dev-cpp\include\rpcnterr.h
+
+1107038124 c:\dev-cpp\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1107038120 c:\dev-cpp\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1107038120 c:\dev-cpp\include\pshpack2.h
+
+1107038120 c:\dev-cpp\include\winperf.h
+
+1107038120 c:\dev-cpp\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1107038120 c:\dev-cpp\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1107038120 c:\dev-cpp\include\objfwd.h
+	<basetyps.h>
+
+1107038120 c:\dev-cpp\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1107038120 c:\dev-cpp\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1107038120 c:\dev-cpp\include\rpcnsip.h
+
+1107038120 c:\dev-cpp\include\winspool.h
+
+1107038120 c:\dev-cpp\include\winsock2.h
+	<windows.h>
+
+1107038120 c:\dev-cpp\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1107038120 c:\dev-cpp\include\mswsock.h
+
+1107038120 c:\dev-cpp\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1107038120 c:\dev-cpp\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1107038124 c:\dev-cpp\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1107038120 c:\dev-cpp\include\objidl.h
+	<objfwd.h>
+
+1107038120 c:\dev-cpp\include\cguid.h
+
+1107038120 c:\dev-cpp\include\olectlid.h
+
+1107038120 c:\dev-cpp\include\oleauto.h
+	<oaidl.h>
+
+1107038120 c:\dev-cpp\include\oaidl.h
+
+1107038120 c:\dev-cpp\include\oleidl.h
+	<objfwd.h>
+
+1476096933 c:\dev-cpp\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1107038124 c:\dev-cpp\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1476096946 c:\dev-cpp\include\mysql_com.h
+
+1476096972 c:\dev-cpp\include\mysql_time.h
+
+1476096983 c:\dev-cpp\include\mysql_version.h
+	<custom_conf.h>
+
+1476097123 c:\dev-cpp\include\typelib.h
+
+1476097168 c:\dev-cpp\include\my_list.h
+
+1476097177 c:\dev-cpp\include\my_alloc.h
+
+1524978964 source:c:\project7\collagep\untitled2.cpp
+	<iostream>
+
+1107038124 j:\main\dev-cpp\include\math.h
+	<_mingw.h>
+
+1107038124 j:\main\dev-cpp\include\_mingw.h
+
+1107038120 j:\main\dev-cpp\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1107038120 j:\main\dev-cpp\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1107038120 j:\main\dev-cpp\include\winuser.h
+
+1107038120 j:\main\dev-cpp\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1107038120 j:\main\dev-cpp\include\winerror.h
+
+1107038124 j:\main\dev-cpp\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1107038124 j:\main\dev-cpp\include\stddef.h
+
+1107038120 j:\main\dev-cpp\include\basetsd.h
+
+1107038120 j:\main\dev-cpp\include\pshpack4.h
+
+1107038120 j:\main\dev-cpp\include\poppack.h
+
+1107038120 j:\main\dev-cpp\include\winver.h
+
+1107038120 j:\main\dev-cpp\include\dde.h
+
+1107038120 j:\main\dev-cpp\include\dlgs.h
+
+1107038120 j:\main\dev-cpp\include\commctrl.h
+	<prsht.h>
+
+1107038120 j:\main\dev-cpp\include\prsht.h
+
+1107038124 j:\main\dev-cpp\include\stdarg.h
+
+1107038120 j:\main\dev-cpp\include\windef.h
+	<winnt.h>
+
+1107038120 j:\main\dev-cpp\include\wincon.h
+
+1107038120 j:\main\dev-cpp\include\winbase.h
+
+1107038120 j:\main\dev-cpp\include\wingdi.h
+
+1107038120 j:\main\dev-cpp\include\winnls.h
+
+1107038120 j:\main\dev-cpp\include\winnetwk.h
+
+1107038120 j:\main\dev-cpp\include\winreg.h
+
+1107038120 j:\main\dev-cpp\include\winsvc.h
+
+1107038120 j:\main\dev-cpp\include\cderr.h
+
+1107038120 j:\main\dev-cpp\include\ddeml.h
+
+1107038120 j:\main\dev-cpp\include\imm.h
+
+1107038120 j:\main\dev-cpp\include\lzexpand.h
+
+1107038120 j:\main\dev-cpp\include\mmsystem.h
+
+1107038120 j:\main\dev-cpp\include\nb30.h
+
+1107038120 j:\main\dev-cpp\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1107038120 j:\main\dev-cpp\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1107038120 j:\main\dev-cpp\include\basetyps.h
+
+1107038120 j:\main\dev-cpp\include\rpcdcep.h
+
+1107038120 j:\main\dev-cpp\include\rpcnsi.h
+
+1107038120 j:\main\dev-cpp\include\rpcnterr.h
+
+1107038124 j:\main\dev-cpp\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1107038120 j:\main\dev-cpp\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1107038120 j:\main\dev-cpp\include\pshpack2.h
+
+1107038120 j:\main\dev-cpp\include\winperf.h
+
+1107038120 j:\main\dev-cpp\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1107038120 j:\main\dev-cpp\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1107038120 j:\main\dev-cpp\include\objfwd.h
+	<basetyps.h>
+
+1107038120 j:\main\dev-cpp\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1107038120 j:\main\dev-cpp\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1107038120 j:\main\dev-cpp\include\rpcnsip.h
+
+1107038120 j:\main\dev-cpp\include\winspool.h
+
+1107038120 j:\main\dev-cpp\include\winsock2.h
+	<windows.h>
+
+1107038120 j:\main\dev-cpp\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1107038120 j:\main\dev-cpp\include\mswsock.h
+
+1107038120 j:\main\dev-cpp\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1107038120 j:\main\dev-cpp\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1107038124 j:\main\dev-cpp\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1107038120 j:\main\dev-cpp\include\objidl.h
+	<objfwd.h>
+
+1107038120 j:\main\dev-cpp\include\cguid.h
+
+1107038120 j:\main\dev-cpp\include\olectlid.h
+
+1107038120 j:\main\dev-cpp\include\oleauto.h
+	<oaidl.h>
+
+1107038120 j:\main\dev-cpp\include\oaidl.h
+
+1107038120 j:\main\dev-cpp\include\oleidl.h
+	<objfwd.h>
+
+1476096933 j:\main\dev-cpp\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1107038124 j:\main\dev-cpp\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1476096946 j:\main\dev-cpp\include\mysql_com.h
+
+1476096972 j:\main\dev-cpp\include\mysql_time.h
+
+1476096983 j:\main\dev-cpp\include\mysql_version.h
+	<custom_conf.h>
+
+1476097123 j:\main\dev-cpp\include\typelib.h
+
+1476097168 j:\main\dev-cpp\include\my_list.h
+
+1476097177 j:\main\dev-cpp\include\my_alloc.h
+
+1524936976 c:\dev-cpp\dev-cpp\include\math.h
+	<_mingw.h>
+
+1524937028 c:\dev-cpp\dev-cpp\include\_mingw.h
+
+1524937020 c:\dev-cpp\dev-cpp\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1524937024 c:\dev-cpp\dev-cpp\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1524937026 c:\dev-cpp\dev-cpp\include\winuser.h
+
+1524937022 c:\dev-cpp\dev-cpp\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1524937020 c:\dev-cpp\dev-cpp\include\winerror.h
+
+1524937010 c:\dev-cpp\dev-cpp\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1524937008 c:\dev-cpp\dev-cpp\include\stddef.h
+
+1524936952 c:\dev-cpp\dev-cpp\include\basetsd.h
+
+1524936992 c:\dev-cpp\dev-cpp\include\pshpack4.h
+
+1524936990 c:\dev-cpp\dev-cpp\include\poppack.h
+
+1524937026 c:\dev-cpp\dev-cpp\include\winver.h
+
+1524936958 c:\dev-cpp\dev-cpp\include\dde.h
+
+1524936960 c:\dev-cpp\dev-cpp\include\dlgs.h
+
+1524936956 c:\dev-cpp\dev-cpp\include\commctrl.h
+	<prsht.h>
+
+1524936992 c:\dev-cpp\dev-cpp\include\prsht.h
+
+1524937008 c:\dev-cpp\dev-cpp\include\stdarg.h
+
+1524937018 c:\dev-cpp\dev-cpp\include\windef.h
+	<winnt.h>
+
+1524937018 c:\dev-cpp\dev-cpp\include\wincon.h
+
+1524937016 c:\dev-cpp\dev-cpp\include\winbase.h
+
+1524937020 c:\dev-cpp\dev-cpp\include\wingdi.h
+
+1524937022 c:\dev-cpp\dev-cpp\include\winnls.h
+
+1524937022 c:\dev-cpp\dev-cpp\include\winnetwk.h
+
+1524937024 c:\dev-cpp\dev-cpp\include\winreg.h
+
+1524937026 c:\dev-cpp\dev-cpp\include\winsvc.h
+
+1524936952 c:\dev-cpp\dev-cpp\include\cderr.h
+
+1524936958 c:\dev-cpp\dev-cpp\include\ddeml.h
+
+1524936966 c:\dev-cpp\dev-cpp\include\imm.h
+
+1524936976 c:\dev-cpp\dev-cpp\include\lzexpand.h
+
+1524936980 c:\dev-cpp\dev-cpp\include\mmsystem.h
+
+1524936982 c:\dev-cpp\dev-cpp\include\nb30.h
+
+1524936998 c:\dev-cpp\dev-cpp\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1524936998 c:\dev-cpp\dev-cpp\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1524936950 c:\dev-cpp\dev-cpp\include\basetyps.h
+
+1524937000 c:\dev-cpp\dev-cpp\include\rpcdcep.h
+
+1524937000 c:\dev-cpp\dev-cpp\include\rpcnsi.h
+
+1524937000 c:\dev-cpp\dev-cpp\include\rpcnterr.h
+
+1524936962 c:\dev-cpp\dev-cpp\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1524937006 c:\dev-cpp\dev-cpp\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1524936992 c:\dev-cpp\dev-cpp\include\pshpack2.h
+
+1524937022 c:\dev-cpp\dev-cpp\include\winperf.h
+
+1524936954 c:\dev-cpp\dev-cpp\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1524937012 c:\dev-cpp\dev-cpp\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1524936986 c:\dev-cpp\dev-cpp\include\objfwd.h
+	<basetyps.h>
+
+1524937026 c:\dev-cpp\dev-cpp\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1524937000 c:\dev-cpp\dev-cpp\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1524937000 c:\dev-cpp\dev-cpp\include\rpcnsip.h
+
+1524937026 c:\dev-cpp\dev-cpp\include\winspool.h
+
+1524937024 c:\dev-cpp\dev-cpp\include\winsock2.h
+	<windows.h>
+
+1524937024 c:\dev-cpp\dev-cpp\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1524936980 c:\dev-cpp\dev-cpp\include\mswsock.h
+
+1524936990 c:\dev-cpp\dev-cpp\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1524936986 c:\dev-cpp\dev-cpp\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1524937010 c:\dev-cpp\dev-cpp\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1524936986 c:\dev-cpp\dev-cpp\include\objidl.h
+	<objfwd.h>
+
+1524936952 c:\dev-cpp\dev-cpp\include\cguid.h
+
+1524936990 c:\dev-cpp\dev-cpp\include\olectlid.h
+
+1524936990 c:\dev-cpp\dev-cpp\include\oleauto.h
+	<oaidl.h>
+
+1524936986 c:\dev-cpp\dev-cpp\include\oaidl.h
+
+1524936990 c:\dev-cpp\dev-cpp\include\oleidl.h
+	<objfwd.h>
+
+1524936980 c:\dev-cpp\dev-cpp\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1524937194 c:\dev-cpp\dev-cpp\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1524936982 c:\dev-cpp\dev-cpp\include\mysql_com.h
+
+1524936982 c:\dev-cpp\dev-cpp\include\mysql_time.h
+
+1524936982 c:\dev-cpp\dev-cpp\include\mysql_version.h
+	<custom_conf.h>
+
+1524937012 c:\dev-cpp\dev-cpp\include\typelib.h
+
+1524936982 c:\dev-cpp\dev-cpp\include\my_list.h
+
+1524936982 c:\dev-cpp\dev-cpp\include\my_alloc.h
+
