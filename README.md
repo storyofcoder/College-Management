@@ -1,17 +1,3 @@
-# College Management program with mysql database
-
- ###  A C++ program for college management with mysql database connectivity 
-
-1.  Welcome Page
-2.  Home page 
-3.  Sign-in / Sign-up Page
-4.  Modules ( Teacher, Student, Library, Fees etc. )
-5.  Modules operation pages.
-
-### Database used : mysql 
-include XMPP program for GUI of Database
-y, it helps to handle all the request like Books managements, Fee managements, fetch all the students and teachers records etc.
-
 
 # College Management
 > College Management program with mysql database
@@ -19,9 +5,18 @@ y, it helps to handle all the request like Books managements, Fee managements, f
 ## General info
 This is a C++ Program developed during the starting period of my B.Tech. The main features are it store data permanently, it helps to handle all the request like Books managements, Fee managements, fetch all the students and teachers records etc.
 
+## Index
+1.  Welcome Page
+2.  Home page 
+3.  Sign-in / Sign-up Page
+4.  Modules ( Teacher, Student, Library, Fees etc. )
+5.  Modules operation pages.
+
+
 ## Technologies
 * C++
 * MySql
+* Include XMPP program for GUI of Database
 
 ## Setup
 You can download my repo the <br> Compile the program
